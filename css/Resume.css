@@ -1,0 +1,23 @@
+
+body{
+    border:5px solid black;
+    color:#333;
+    padding: 15px;
+}
+.open{
+    text-align:center;
+}
+h2{
+    text-align:left;
+    color: rgb(35, 104, 113);
+    text-decoration: underline;
+}
+ul{
+    color:#333;
+}
+.Biglist{
+    font-size: 20px;
+}
+.embedul{
+    font-size: 18px;
+}
